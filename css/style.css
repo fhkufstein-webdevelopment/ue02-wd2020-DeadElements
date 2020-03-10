@@ -21,6 +21,10 @@ body {
                     Beispielsweise habe ich es lange nicht geschafft, die listelemente so auszuwählen, dass
                     der h1 text nicht in meinen Nav Beriech gerutscht is. Aber das ist eine übungssache schätze ich :)
                      */
+
+                    /*update nach fertiger bearbietung der CSS Aufgaben: Problem mit dem schließen des Issues, daher
+                    commit ich es nochmal neu mit diesm Kommentar als änderung
+                     */
 nav ul li{
     float: left;
     width: 200px;
